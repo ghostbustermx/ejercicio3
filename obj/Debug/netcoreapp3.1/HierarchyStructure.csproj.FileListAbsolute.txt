@@ -1,0 +1,13 @@
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\bin\Debug\netcoreapp3.1\HierarchyStructure.exe
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\bin\Debug\netcoreapp3.1\HierarchyStructure.deps.json
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\bin\Debug\netcoreapp3.1\HierarchyStructure.runtimeconfig.json
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\bin\Debug\netcoreapp3.1\HierarchyStructure.runtimeconfig.dev.json
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\bin\Debug\netcoreapp3.1\HierarchyStructure.dll
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\bin\Debug\netcoreapp3.1\HierarchyStructure.pdb
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\obj\Debug\netcoreapp3.1\HierarchyStructure.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\obj\Debug\netcoreapp3.1\HierarchyStructure.AssemblyInfoInputs.cache
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\obj\Debug\netcoreapp3.1\HierarchyStructure.AssemblyInfo.cs
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\obj\Debug\netcoreapp3.1\HierarchyStructure.csproj.CopyComplete
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\obj\Debug\netcoreapp3.1\HierarchyStructure.dll
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_3\HierarchyStructure\obj\Debug\netcoreapp3.1\HierarchyStructure.pdb

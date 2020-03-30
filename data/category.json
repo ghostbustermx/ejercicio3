@@ -1,0 +1,37 @@
+
+
+[
+
+
+  {
+
+
+    "CategoryId": 1,
+
+
+    "Name": "Jefe",
+
+
+    "ParentCategoryId": 0
+
+
+  },
+
+
+  {
+
+
+    "CategoryId": 2,
+
+
+    "Name": "Empleado",
+
+
+    "ParentCategoryId": 1
+
+
+  }
+
+
+]
+
